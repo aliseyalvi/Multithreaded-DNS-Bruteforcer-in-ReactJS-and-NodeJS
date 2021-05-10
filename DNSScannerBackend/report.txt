@@ -1,0 +1,802 @@
+1.google.com
+IPv4 address: 172.217.27.14
+IPv6 address: 2404:6800:4003:803::200e
+
+admin.google.com
+IPv4 address: 74.125.200.100
+IPv4 address: 74.125.200.139
+IPv4 address: 74.125.200.113
+IPv4 address: 74.125.200.101
+IPv4 address: 74.125.200.138
+IPv4 address: 74.125.200.102
+IPv6 address: 2404:6800:4003:c04::66
+
+about.google.com
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.102
+IPv6 address: 2404:6800:4003:c02::64
+
+aa.google.com
+IPv4 address: 74.125.130.113
+IPv4 address: 74.125.130.139
+IPv4 address: 74.125.130.102
+IPv4 address: 74.125.130.101
+IPv4 address: 74.125.130.100
+IPv4 address: 74.125.130.138
+IPv6 address: 2404:6800:4003:c03::71
+
+accounts.google.com
+IPv4 address: 74.125.24.84
+IPv6 address: 2404:6800:4003:c03::54
+
+academico.google.com
+IPv4 address: 172.217.194.104
+IPv4 address: 172.217.194.106
+IPv4 address: 172.217.194.105
+IPv4 address: 172.217.194.99
+IPv4 address: 172.217.194.103
+IPv4 address: 172.217.194.147
+
+ai.google.com
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv6 address: 2404:6800:4003:c03::66
+
+adx.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c01::65
+
+ads.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::65
+
+alerts.google.com
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.102
+IPv6 address: 2404:6800:4003:c03::8b
+
+ap.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2a00:1450:4019:801::2004
+
+apps.google.com
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.100
+IPv6 address: 2a00:1450:4019:800::200e
+
+asia.google.com
+IPv4 address: 216.58.208.228
+
+blog.google.com
+IPv4 address: 216.58.208.233
+IPv6 address: 2a00:1450:4019:805::2009
+
+billing.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+books.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+careers.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+buzz.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+calendar.google.com
+IPv4 address: 216.58.207.14
+IPv6 address: 2a00:1450:4019:802::200e
+
+catalogue.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+catalog.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+classroom.google.com
+IPv4 address: 216.58.207.14
+IPv6 address: 2a00:1450:4019:802::200e
+
+chat.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+corp.google.com
+IPv4 address: 74.125.133.129
+IPv6 address: 2a00:1450:400c:c07::81
+
+code.google.com
+IPv4 address: 216.58.207.110
+
+cse.google.com
+IPv4 address: 216.58.207.14
+
+developer.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+developers.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+directory.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+dir.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+design.google.com
+IPv4 address: 216.58.208.238
+IPv6 address: 2a00:1450:4019:805::200e
+
+dl.google.com
+IPv4 address: 216.58.207.14
+IPv6 address: 2a00:1450:4019:802::200e
+
+docs.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+doc.google.com
+IPv4 address: 216.58.208.238
+IPv6 address: 2a00:1450:4019:805::200e
+
+downloads.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2a00:1450:4019:801::2004
+
+download.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2a00:1450:4019:801::2004
+
+dns.google.com
+IPv4 address: 8.8.4.4
+IPv4 address: 8.8.8.8
+IPv6 address: 2001:4860:4860::8888
+IPv6 address: 2001:4860:4860::8844
+
+domains.google.com
+IPv4 address: 216.58.207.110
+IPv6 address: 2a00:1450:4019:803::200e
+
+earth.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+email.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+education.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+europe.google.com
+IPv4 address: 172.217.19.4
+IPv6 address: 2a00:1450:4019:800::2004
+
+express.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+edu.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+events.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+finance.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+files.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+enterprise.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+fiber.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+fi.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+feeds.google.com
+IPv4 address: 108.170.217.160
+
+games.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+fit.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+gd.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2a00:1450:4019:801::2004
+
+fusion.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2a00:1450:4019:801::2004
+
+foto.google.com
+IPv4 address: 216.58.207.110
+IPv6 address: 2a00:1450:4019:803::200e
+
+gg.google.com
+IPv4 address: 216.58.208.238
+IPv6 address: 2a00:1450:4019:805::200e
+
+gmail.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+fotos.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+groups.google.com
+IPv4 address: 74.125.133.100
+IPv4 address: 74.125.133.101
+IPv4 address: 74.125.133.138
+IPv4 address: 74.125.133.139
+IPv4 address: 74.125.133.102
+IPv4 address: 74.125.133.113
+IPv6 address: 2a00:1450:400c:c07::64
+
+gw2.google.com
+IPv4 address: 172.217.19.164
+
+gw3.google.com
+IPv4 address: 172.217.19.164
+
+gw0.google.com
+IPv4 address: 172.217.19.164
+
+gw1.google.com
+IPv4 address: 172.217.19.164
+
+help.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+history.google.com
+IPv4 address: 172.217.194.138
+IPv4 address: 172.217.194.113
+IPv4 address: 172.217.194.139
+IPv4 address: 172.217.194.100
+IPv4 address: 172.217.194.102
+IPv4 address: 172.217.194.101
+IPv6 address: 2404:6800:4003:c03::8b
+
+health.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c00::71
+
+group.google.com
+IPv4 address: 74.125.133.139
+IPv4 address: 74.125.133.100
+IPv4 address: 74.125.133.138
+IPv4 address: 74.125.133.113
+IPv4 address: 74.125.133.101
+IPv4 address: 74.125.133.102
+IPv6 address: 2404:6800:4003:c04::66
+
+home.google.com
+IPv4 address: 172.253.118.138
+IPv4 address: 172.253.118.113
+IPv4 address: 172.253.118.100
+IPv4 address: 172.253.118.101
+IPv4 address: 172.253.118.139
+IPv4 address: 172.253.118.102
+IPv6 address: 2404:6800:4003:80a::200e
+
+id.google.com
+IPv4 address: 216.58.209.227
+IPv6 address: 2607:f8b0:4004:810::2003
+
+ime.google.com
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.101
+IPv6 address: 2404:6800:4003:c05::65
+
+investor.google.com
+IPv4 address: 74.125.200.100
+IPv4 address: 74.125.200.139
+IPv4 address: 74.125.200.102
+IPv4 address: 74.125.200.113
+IPv4 address: 74.125.200.138
+IPv4 address: 74.125.200.101
+IPv6 address: 2a00:1450:4019:800::200e
+
+investors.google.com
+IPv4 address: 74.125.68.102
+IPv4 address: 74.125.68.100
+IPv4 address: 74.125.68.138
+IPv4 address: 74.125.68.113
+IPv4 address: 74.125.68.139
+IPv4 address: 74.125.68.101
+IPv6 address: 2a00:1450:4019:800::200e
+
+images.google.com
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv6 address: 2a00:1450:4019:802::200e
+
+image.google.com
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv6 address: 2a00:1450:4019:802::200e
+
+jobs.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+ipv6.google.com
+IPv6 address: 2a00:1450:4019:801::200e
+
+kh.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+labs.google.com
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv6 address: 2a00:1450:4019:800::200e
+
+local.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+ldap.google.com
+IPv4 address: 216.239.32.58
+IPv6 address: 2001:4860:4802:32::3a
+
+mail.google.com
+IPv4 address: 216.58.207.5
+IPv6 address: 2a00:1450:4019:802::2005
+
+maps.google.com
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.138
+IPv6 address: 2a00:1450:4019:805::200e
+
+lp.google.com
+IPv4 address: 172.217.19.14
+
+mars.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+map.google.com
+IPv4 address: 172.217.194.113
+IPv4 address: 172.217.194.139
+IPv4 address: 172.217.194.102
+IPv4 address: 172.217.194.101
+IPv4 address: 172.217.194.100
+IPv4 address: 172.217.194.138
+IPv6 address: 2a00:1450:4019:805::200e
+
+m.google.com
+IPv4 address: 172.217.19.11
+IPv6 address: 2a00:1450:4019:800::200b
+
+messages.google.com
+IPv4 address: 172.217.27.14
+IPv6 address: 2a00:1450:4019:801::200e
+
+mobile.google.com
+IPv4 address: 172.217.19.11
+IPv6 address: 2a00:1450:4019:800::200b
+
+msr.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+mt1.google.com
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.102
+IPv6 address: 2a00:1450:4019:800::200e
+
+mt.google.com
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.100
+IPv6 address: 2a00:1450:4019:800::200e
+
+mts.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+moon.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+music.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::71
+
+nexus.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+nntp.google.com
+IPv4 address: 209.85.232.140
+
+ns.google.com
+IPv4 address: 216.239.32.10
+
+newsfeed.google.com
+IPv4 address: 64.233.166.140
+
+ns4.google.com
+IPv4 address: 216.239.38.10
+IPv6 address: 2001:4860:4802:38::a
+
+ns3.google.com
+IPv4 address: 216.239.36.10
+IPv6 address: 2001:4860:4802:36::a
+
+ns1.google.com
+IPv4 address: 216.239.32.10
+IPv6 address: 2001:4860:4802:32::a
+
+ns2.google.com
+IPv4 address: 216.239.34.10
+
+on.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+one.google.com
+IPv4 address: 172.253.118.101
+IPv4 address: 172.253.118.139
+IPv4 address: 172.253.118.113
+IPv4 address: 172.253.118.102
+IPv4 address: 172.253.118.138
+IPv4 address: 172.253.118.100
+IPv6 address: 2a00:1450:4019:800::200e
+
+opensource.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+nec.google.com
+IPv4 address: 172.217.19.164
+
+partners.google.com
+IPv4 address: 172.253.118.102
+IPv4 address: 172.253.118.100
+IPv4 address: 172.253.118.101
+IPv4 address: 172.253.118.139
+IPv4 address: 172.253.118.138
+IPv4 address: 172.253.118.113
+IPv6 address: 2a00:1450:4019:800::200e
+
+photo.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+play.google.com
+IPv4 address: 74.125.68.101
+IPv4 address: 74.125.68.113
+IPv4 address: 74.125.68.138
+IPv4 address: 74.125.68.139
+IPv4 address: 74.125.68.102
+IPv4 address: 74.125.68.100
+IPv6 address: 2404:6800:4003:c03::71
+
+postmaster.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+print.google.com
+IPv4 address: 172.217.19.164
+IPv6 address: 2404:6800:4003:c03::93
+
+privacy.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+plus.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+photos.google.com
+IPv4 address: 216.58.207.110
+IPv6 address: 2a00:1450:4019:803::200e
+
+pki.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+products.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+poly.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+profiles.google.com
+IPv4 address: 172.217.19.174
+
+registry.google.com
+IPv4 address: 216.58.208.238
+IPv6 address: 2404:6800:4003:c04::8b
+
+relay.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2a00:1450:4019:801::200e
+
+research.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+pride.google.com
+IPv4 address: 216.58.207.14
+
+safety.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+sandbox.google.com
+IPv4 address: 172.217.194.81
+IPv6 address: 2a00:1450:400c:c0c::451
+
+search.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:803::200e
+
+security.google.com
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv6 address: 2404:6800:4003:803::200e
+
+services.google.com
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv6 address: 2a00:1450:4019:800::200e
+
+sb.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4005:805::200e
+
+shopping.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::65
+
+sky.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::64
+
+sms.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::66
+
+speech.google.com
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.138
+IPv6 address: 2a00:1450:4019:800::200e
+
+sprint.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+squared.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::64
+
+station.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c00::71
+
+store.google.com
+IPv4 address: 216.58.207.14
+IPv6 address: 2404:6800:4003:c00::8b
+
+support.google.com
+IPv4 address: 216.58.208.238
+IPv6 address: 2a00:1450:4019:805::200e
+
+talk.google.com
+IPv4 address: 74.125.24.125
+IPv6 address: 2404:6800:4003:c03::7d
+
+transit.google.com
+IPv4 address: 74.125.68.139
+IPv4 address: 74.125.68.102
+IPv4 address: 74.125.68.138
+IPv4 address: 74.125.68.113
+IPv4 address: 74.125.68.101
+IPv4 address: 74.125.68.100
+IPv6 address: 2a00:1450:4019:800::200e
+
+time.google.com
+IPv4 address: 216.239.35.4
+IPv4 address: 216.239.35.12
+IPv4 address: 216.239.35.0
+IPv4 address: 216.239.35.8
+IPv6 address: 2001:4860:4806:4::
+IPv6 address: 2001:4860:4806:8::
+IPv6 address: 2001:4860:4806::
+IPv6 address: 2001:4860:4806:c::
+
+tools.google.com
+IPv4 address: 74.125.68.139
+IPv4 address: 74.125.68.100
+IPv4 address: 74.125.68.102
+IPv4 address: 74.125.68.101
+IPv4 address: 74.125.68.138
+IPv4 address: 74.125.68.113
+IPv6 address: 2404:6800:4003:804::200e
+
+upload.google.com
+IPv4 address: 216.58.207.15
+IPv6 address: 2a00:1450:4019:802::200f
+
+uploads.google.com
+IPv4 address: 108.170.217.160
+
+tv.google.com
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.138
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.102
+IPv6 address: 2a00:1450:4019:800::200e
+
+voice.google.com
+IPv4 address: 172.217.19.174
+IPv6 address: 2404:6800:4003:c03::76
+
+vr.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2404:6800:4003:c03::65
+
+vs.google.com
+IPv4 address: 66.102.1.192
+
+vpn.google.com
+IPv4 address: 64.9.224.69
+IPv4 address: 64.9.224.70
+IPv4 address: 64.9.224.68
+
+vault.google.com
+IPv4 address: 74.125.24.118
+IPv6 address: 2a00:1450:4019:803::200e
+
+wam.google.com
+IPv4 address: 72.14.224.24
+IPv4 address: 72.14.224.25
+
+wallet.google.com
+IPv4 address: 74.125.200.92
+IPv6 address: 2404:6800:4003:c03::5c
+
+wap.google.com
+IPv4 address: 74.125.200.102
+IPv4 address: 74.125.200.113
+IPv4 address: 74.125.200.138
+IPv4 address: 74.125.200.101
+IPv4 address: 74.125.200.100
+IPv4 address: 74.125.200.139
+IPv6 address: 2404:6800:4003:c03::65
+
+web.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+whois.google.com
+IPv4 address: 216.239.34.22
+IPv6 address: 2001:4860:4802:34::16
+
+w.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+work.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+
+www.google.com
+IPv4 address: 74.125.24.103
+IPv4 address: 74.125.24.104
+IPv4 address: 74.125.24.147
+IPv4 address: 74.125.24.99
+IPv4 address: 74.125.24.106
+IPv4 address: 74.125.24.105
+IPv6 address: 2a00:1450:4019:801::2004
+
+ww.google.com
+IPv4 address: 74.125.24.102
+IPv4 address: 74.125.24.101
+IPv4 address: 74.125.24.100
+IPv4 address: 74.125.24.113
+IPv4 address: 74.125.24.139
+IPv4 address: 74.125.24.138
+IPv6 address: 2a00:1450:4019:800::200e
+
+video.google.com
+IPv4 address: 216.58.207.110
+IPv6 address: 2a00:1450:4019:803::200e
+
+videos.google.com
+IPv4 address: 216.58.207.110
+IPv6 address: 2a00:1450:4019:803::200e
+
+yp.google.com
+IPv4 address: 172.217.19.14
+IPv6 address: 2a00:1450:4019:800::200e
+

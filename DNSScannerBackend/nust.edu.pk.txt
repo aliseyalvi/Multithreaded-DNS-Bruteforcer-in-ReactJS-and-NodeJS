@@ -1,0 +1,105 @@
+cac.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+cce.nust.edu.pk
+IPv4 address: 111.68.101.194
+
+cdc.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ces.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+cms.nust.edu.pk
+IPv4 address: 111.68.101.141
+
+ec.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ep.nust.edu.pk
+IPv4 address: 111.68.101.70
+
+feedback.nust.edu.pk
+IPv4 address: 111.68.101.209
+
+ftp.nust.edu.pk
+IPv4 address: 111.68.101.101
+
+hr.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+library.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+mail.nust.edu.pk
+IPv4 address: 198.57.197.250
+
+mcs.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+mssql.nust.edu.pk
+IPv4 address: 111.68.101.209
+
+my.nust.edu.pk
+IPv4 address: 111.68.101.101
+
+nac.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+nbs.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ncsc.nust.edu.pk
+IPv4 address: 111.68.101.194
+
+nec.nust.edu.pk
+IPv4 address: 111.68.101.194
+
+nice.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+nmc.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ns1.nust.edu.pk
+IPv4 address: 111.68.101.209
+
+nss.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ns2.nust.edu.pk
+IPv4 address: 111.68.101.210
+
+out.nust.edu.pk
+IPv4 address: 111.68.97.8
+
+pdc.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+qa.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+research.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+ric.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+sns.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+student.nust.edu.pk
+IPv4 address: 111.68.101.194
+
+tic.nust.edu.pk
+IPv4 address: 111.68.101.193
+
+vpn.nust.edu.pk
+IPv4 address: 111.68.101.74
+
+webmail.nust.edu.pk
+IPv4 address: 111.68.101.209
+
+www.nust.edu.pk
+IPv4 address: 111.68.101.101
+
